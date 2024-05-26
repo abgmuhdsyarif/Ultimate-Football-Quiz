@@ -16,7 +16,7 @@ Welcome to the Ultimate Football Quiz! This is a simple and interactive console-
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Ultimate-Football-Quiz.git
+    git clone https://github.com/abgmuhdsyarif/Ultimate-Football-Quiz.git
     ```
 2. Navigate to the repository directory:
     ```bash
