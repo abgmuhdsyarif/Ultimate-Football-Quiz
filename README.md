@@ -24,7 +24,7 @@ Welcome to the Ultimate Football Quiz! This is a simple and interactive console-
     ```
 3. Compile the code:
     ```bash
-    gcc -o quiz quiz.c
+    gcc -o quiz main.c
     ```
 4. Run the quiz:
     ```bash
